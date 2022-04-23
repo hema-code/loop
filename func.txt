@@ -1,0 +1,20 @@
+1. What does function do in python?
+2. Explain help() function in python.
+3. Explain dir() function in python.
+4. Who can we call function in program? 
+5. what is mostly used python function?
+6. what is syntax of python function?
+7. what is python built-in function? 
+8. what does the function Zip() do?
+9. what is the purpose of bytes() in python?
+10. How many arugments can the range() function take?
+11. what are the four types of function in python?
+12. what are the functions of python?
+13. what do function with no argument and no return value?
+14. what do function with  no argument and with a return value?
+15. what do function with argument and no return value?
+16. what do function with argument and  return value?
+17. who we can create a function?
+18. who we can pass a arguments in a function?
+19. How many arguments can pass in a function?
+20. what is keyword arguments
