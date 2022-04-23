@@ -1,0 +1,21 @@
+DATA TYPES QUESTIONS:
+1. What are data types?
+2. Name four of the main data types in python?
+3. Why are these date types knowns as python's core data types?
+4. what does immutable mean?
+5. What are three types of Python core data types are considered immutable?
+6. what does sequence mean?
+7. which types of data fall into the sequence?
+8. what does mapping mean?
+9. what kind of data type is based on mapping?
+10. what is polymorphism?
+11. why polymorphism should you care?
+12. what are built-in data types in python?
+13. what does mutable mean?
+14. How many data types are in python?
+15. what are the default data types in python?
+16. Why are data types important in python?
+17. what are lists and tuples?. 
+18. what are numeric data types?
+19. which of the data types are mutable?
+20. which of the data types are unmutable?
