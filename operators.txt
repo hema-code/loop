@@ -1,0 +1,20 @@
+1. what are python operators?
+2. what are assignment operators?
+3. what are comparison operators?
+4. what are logical operators?
+5. what are arithmetic operators?
+6. what are bitwise operators?
+7. what are membership operators?
+8. what are identity operators?
+9. what do floor divsion operators?
+10. which operators used for comparing the string?
+11. which operator is overloaded by the OR() function?
+12. what is the function of AND operator?
+13. which function overloads == operator in python?
+14. what is a function not?
+15. what is a function OR?
+16. what is a function IS?
+17. what is a function IS NOT?
+18. what is a function &?
+19. what is a function IN?
+20. what is a function not In?
