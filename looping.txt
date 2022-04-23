@@ -1,0 +1,20 @@
+1. What are looping statements in python?
+2. What are the three looping statements? 
+3. what does while loop do?
+4. what does for loop do?
+5. what does do loop do?
+6. How many statements can you have in a for loop?
+7. What is i++ in for loop?
+8. can we use for loop without increment?
+9. can we use for loop without decrement?
+10. should i use ++i or i++ in for loop? 
+11. what is difference between i++ and i1?
+12. can we use break statements  in loop?
+13. what does break statements do in loop?
+14. what does continue statements do in loop?
+15. what does pass statements do in loop?
+16. can we loop through a string?
+17. what is syntax of while loop?
+18. what is syntax of do loop?
+19. what is syntax of for loop?
+20. why we can use loop in program?
