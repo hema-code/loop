@@ -1,0 +1,19 @@
+1. What are conditional statements?
+2. illustrate the structure if statement?
+3. illustrate the structure if statement?
+4. illustrate the structure if-elif statement?
+6. illustrate the structure of if-else statement?
+7. illustrate the structure if,elif,else statement?
+8. what does elif mean?
+9. How are if,elif, and else blocks defined?
+10. illustrate a switch case equivalent using if-elif-else.
+11. what are the two main types of conditional statements in python?
+12. How many elif can be used in python?
+13. what is nested IF in python?
+14. How many conditional statements in python? 
+15. Is conditional statements is used for grouping? 
+16. who does the IF block execute?
+17. who does the IF-ELSE block execute?
+18. who does the IF-elif block execute?
+19. who does the IF-elif-else block execute?
+20. what does the pass statement in IF-block?
